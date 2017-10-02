@@ -8,3 +8,11 @@ p {
     color: blue;
     text-transform:uppercase;
 }
+
+
+.header {
+	background-image:url("https://s3-us-west-2.amazonaws.com/shallwelearn/header.png");
+	height:70px;
+	width:110%;
+	margin:-10px;
+}
